@@ -1,11 +1,3 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
 <html lang="zh-CN">
 <head>
@@ -172,7 +164,7 @@ redirect_from:
                 </div>
                 <div>
                     <h4 class="text-lg font-semibold mb-4">订阅资讯</h4>
-                    <p class="text-gray-400 mb-4">订阅我们的 newsletter，获取最新科技资讯</p>
+                    <p class="text-gray-400 mb-4">订阅我们的动态资讯，获取最新科技讯息s's's's's's's's's's's's's'ssssssssssssssssssss</p>
                     <form class="flex">
                         <input type="email" placeholder="您的邮箱地址" class="px-3 py-2 rounded-l-md w-full focus:outline-none text-gray-800">
                         <button type="submit" class="bg-primary hover:bg-primary/90 text-white px-3 py-2 rounded-r-md transition-colors">
